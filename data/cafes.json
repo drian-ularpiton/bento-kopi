@@ -1,0 +1,587 @@
+[
+  {
+    "slug": "de-terrace-cafe-resto",
+    "nama": "De Terrace Cafe & Resto",
+    "area": "Kaliwates",
+    "alamat": "Jl. Trunojoyo, Jl. Kauman No.42, Sawahan Cantian, Kepatihan, Kec. Kaliwates, Kab. Jember 68131",
+    "koordinat": { "lat": -8.1751717, "lng": 113.7019039 },
+    "jam_buka": "Sen-Kam & Min 10:00-22:00; Jum-Sab 10:00-23:30",
+    "kisaran_harga": "RpRp",
+    "suasana": ["nongkrong", "keluarga", "live-music"],
+    "fasilitas": ["indoor", "outdoor"],
+    "deskripsi_singkat": "Kafe dan resto dengan area indoor serta outdoor, cocok untuk kumpul bersama teman atau keluarga.",
+    "daya_tarik": "Menu minuman yang tidak biasa (ada latte berbahan ketan hitam dan klepon) dan kadang ada live band. Menyajikan minuman beralkohol, jadi perlu ditandai untuk pembaca. Lebih baik datang sore atau malam karena sebagian menu makanan belum siap saat siang.",
+    "menu_andalan": [
+      { "nama": "Ketan Hitam Latte", "harga": null, "catatan": "Disebut pengunjung", "foto": null },
+      { "nama": "Klepon Latte", "harga": null, "catatan": "Disebut pengunjung", "foto": null },
+      { "nama": "Charcoal Latte", "harga": null, "catatan": "Disebut pengunjung", "foto": null },
+      { "nama": "Steak (tingkat kematangan bisa dipilih)", "harga": null, "catatan": "Disebut pengunjung", "foto": null }
+    ],
+    "foto": [
+  {
+    "src": "depan.png",
+    "alt": "Tampilan depan kafe"
+  },
+  {
+    "src": "interior.jpg",
+    "alt": "Suasana interior kafe"
+  },
+  {
+    "src": "menu.jpg",
+    "alt": "Menu yang tersedia di kafe"
+  }
+],
+    "instagram": "https://www.instagram.com/deterrace.cafe/?hl=id",
+    "kontak": "+62 812-3709-0009",
+    "maps_url": "https://maps.google.com/?cid=9635269054810504467",
+    "sumber_foto": null,
+    "terakhir_diperbarui": "2026-11-16",
+    "status_data": "draf - perlu verifikasi langsung"
+  },
+  {
+    "slug": "kissa-haus-coffee-shop",
+    "nama": "Kissa Haus Coffee Shop",
+    "area": "Sumbersari",
+    "alamat": "Jl. Tidar Plindu, Kloncing, Karangrejo, Kec. Sumbersari, Kab. Jember 68123",
+    "koordinat": { "lat": -8.1737583, "lng": 113.7306467 },
+    "jam_buka": "Setiap hari 12:00-02:00",
+    "kisaran_harga": "RpRp",
+    "suasana": ["nongkrong", "outdoor"],
+    "fasilitas": ["outdoor", "parkir"],
+    "deskripsi_singkat": "Kedai kopi dengan area outdoor luas yang nyaman untuk nongkrong santai.",
+    "daya_tarik": "Dikenal sebagai salah satu spot melihat matahari terbenam di Jember. Menu cukup beragam. Catatan: meja kerja terbatas, musik cukup keras, dan colokan tidak banyak, jadi kurang cocok untuk kerja lama dengan laptop (ulasan pengunjung beragam soal ini).",
+    "menu_andalan": [
+      { "nama": "Moccacino", "harga": null, "catatan": "Disebut pengunjung", "foto": null },
+      { "nama": "Dirty Latte", "harga": null, "catatan": "Disebut pengunjung", "foto": null }
+    ],
+    "foto": [
+  {
+    "src": "depan.jpg",
+    "alt": "Tampilan depan kafe"
+  },
+  {
+    "src": "interior.jpg",
+    "alt": "Suasana interior kafe"
+  },
+  {
+    "src": "menu.jpg",
+    "alt": "Menu yang tersedia di kafe"
+  }
+],
+    "instagram": "https://instagram.com/kissahaus",
+    "kontak": null,
+    "maps_url": "https://maps.google.com/?cid=3716453665452571842",
+    "sumber_foto": null,
+    "terakhir_diperbarui": "2026-11-16",
+    "status_data": "draf - perlu verifikasi langsung"
+  },
+  {
+    "slug": "at-maison",
+    "nama": "at MAISON",
+    "area": "Kaliwates",
+    "alamat": "Jl. Diponegoro No.20, Tembaan, Kepatihan, Kec. Kaliwates, Kab. Jember 68137",
+    "koordinat": { "lat": -8.1713517, "lng": 113.6979902 },
+    "jam_buka": "Sen-Jum 08:00-23:00; Sab-Min 08:00-00:00",
+    "kisaran_harga": "RpRp",
+    "suasana": ["tenang", "nugas", "nongkrong"],
+    "fasilitas": [],
+    "deskripsi_singkat": "Kafe yang tenang di dekat pusat kota, nyaman untuk bekerja atau ngobrol.",
+    "daya_tarik": "Suasananya tenang meski hanya beberapa puluh meter dari jalan utama. Catatan: akses masuk dengan mobil agak sulit.",
+    "menu_andalan": [
+      { "nama": "Purple Haze", "harga": null, "catatan": "Disebut pengunjung", "foto": null }
+    ],
+    "foto": [
+  {
+    "src": "depan.jpg",
+    "alt": "Tampilan depan kafe"
+  },
+  {
+    "src": "interior.jpg",
+    "alt": "Suasana interior kafe"
+  },
+  {
+    "src": "menu.jpg",
+    "alt": "Menu yang tersedia di kafe"
+  }
+],
+    "instagram": "https://www.instagram.com/at__maison/",
+    "kontak": "+62 877-7789-3501",
+    "maps_url": "https://maps.google.com/?cid=946423143815235847",
+    "sumber_foto": null,
+    "terakhir_diperbarui": "2026-11-16",
+    "status_data": "draf - perlu verifikasi langsung"
+  },
+  {
+    "slug": "eterno-coffee-eatery",
+    "nama": "Eterno Coffee & Eatery",
+    "area": "Sumbersari",
+    "alamat": "Ruko Greenland, Jl. Tidar Cluster No.5, Kloncing, Karangrejo, Kec. Sumbersari, Kab. Jember 68124",
+    "koordinat": { "lat": -8.1711418, "lng": 113.7292118 },
+    "jam_buka": "Setiap hari 09:00-23:00",
+    "kisaran_harga": "RpRp",
+    "suasana": ["nugas", "nongkrong", "keluarga"],
+    "fasilitas": ["ac", "indoor", "outdoor"],
+    "deskripsi_singkat": "Kafe bergaya industrial dengan area indoor ber-AC dan area outdoor yang berangin.",
+    "daya_tarik": "Cocok untuk kerja, diskusi, maupun nongkrong malam, dan disebut ramah anak. Menu minumannya cukup kreatif, mulai dari espresso sampai mocktail signature.",
+    "menu_andalan": [
+      { "nama": "Aglio Olio", "harga": null, "catatan": "Disebut pengunjung", "foto": null },
+      { "nama": "Mochaccino", "harga": null, "catatan": "Disebut pengunjung", "foto": null },
+      { "nama": "Nasi goreng", "harga": null, "catatan": "Disebut pengunjung", "foto": null }
+    ],
+    "foto": [
+  {
+    "src": "depan.jpg",
+    "alt": "Tampilan depan kafe"
+  },
+  {
+    "src": "interior.jpg",
+    "alt": "Suasana interior kafe"
+  },
+  {
+    "src": "menu.jpg",
+    "alt": "Menu yang tersedia di kafe"
+  }
+],
+    "instagram": "https://www.instagram.com/eterno.coffee/",
+    "kontak": "+62 821-4256-7676",
+    "maps_url": "https://maps.google.com/?cid=8184291416483331113",
+    "sumber_foto": null,
+    "terakhir_diperbarui": "2026-11-16",
+    "status_data": "draf - perlu verifikasi langsung"
+  },
+  {
+    "slug": "discuss-space-coffee",
+    "nama": "Discuss Space & Coffee",
+    "area": "Sumbersari",
+    "alamat": "Jl. Jawa II, Tegal Boto Lor, Kec. Sumbersari, Kab. Jember 68121",
+    "koordinat": { "lat": -8.1693093, "lng": 113.713302 },
+    "jam_buka": "Sen-Kam & Min 08:00-23:00; Jum-Sab 08:00-00:00",
+    "kisaran_harga": "RpRp",
+    "suasana": ["nugas", "nongkrong", "live-music"],
+    "fasilitas": ["ruang-meeting", "photobox", "non-smoking", "smoking-area", "parkir"],
+    "deskripsi_singkat": "Kafe dua lantai di tengah kota dengan beberapa tipe tempat duduk dan ruang meeting.",
+    "daya_tarik": "Pilihan tempat duduk beragam: kursi biasa di lantai 1 dan 2, ruang berkarpet rumput sintetis dengan bean bag, dan ruang meeting yang bisa dibooking. Ada photobox. Lantai 1 non-smoking, lantai 2 punya ruang smoking area. Kadang ada pertunjukan live.",
+    "menu_andalan": [
+      { "nama": "Strawberry Cheesecake", "harga": null, "catatan": "Disebut pengunjung", "foto": null },
+      { "nama": "Matcha Ice Cream", "harga": null, "catatan": "Disebut pengunjung", "foto": null }
+    ],
+    "foto": [
+  {
+    "src": "depan.jpg",
+    "alt": "Tampilan depan kafe"
+  },
+  {
+    "src": "interior.jpg",
+    "alt": "Suasana interior kafe"
+  },
+  {
+    "src": "menu.jpg",
+    "alt": "Menu yang tersedia di kafe"
+  }
+],
+    "instagram": "https://www.instagram.com/discuss.space/",
+    "kontak": "+62 851-5741-1448",
+    "maps_url": "https://maps.google.com/?cid=588289566295783787",
+    "sumber_foto": null,
+    "terakhir_diperbarui": "2026-11-16",
+    "status_data": "draf - perlu verifikasi langsung"
+  },
+  {
+    "slug": "sumber-redjo-coffee-eatery",
+    "nama": "Sumber Redjo - Coffee & Eatery",
+    "area": "Sumbersari",
+    "alamat": "Jl. Kalimantan No.37, Krajan Timur, Kec. Sumbersari, Kab. Jember 68121",
+    "koordinat": { "lat": -8.1630674, "lng": 113.7135134 },
+    "jam_buka": "Setiap hari 08:00-23:00 (Kamis buka 07:00)",
+    "kisaran_harga": "RpRp",
+    "suasana": ["outdoor", "nongkrong", "nugas"],
+    "fasilitas": ["outdoor", "indoor"],
+    "deskripsi_singkat": "Kedai kopi di dekat area kampus, sebagian besar berupa area outdoor dengan banyak pilihan tempat duduk.",
+    "daya_tarik": "Praktis untuk nongkrong di sekitar kampus. Ada area indoor yang lebih tenang untuk belajar atau kerja, tetapi pesanan tidak bisa dilakukan langsung dari area tersebut. Catatan: parkir agak sulit.",
+    "menu_andalan": [
+      { "nama": "Mochaccino", "harga": null, "catatan": "Disebut pengunjung", "foto": null },
+      { "nama": "Americano", "harga": null, "catatan": "Disebut pengunjung", "foto": null }
+    ],
+    "foto": [
+  {
+    "src": "depan.jpg",
+    "alt": "Tampilan depan kafe"
+  },
+  {
+    "src": "interior.jpg",
+    "alt": "Suasana interior kafe"
+  },
+  {
+    "src": "menu.jpg",
+    "alt": "Menu yang tersedia di kafe"
+  }
+],
+    "instagram": "https://www.instagram.com/sumberredjo.coffee/",
+    "kontak": "+62 821-3312-9348",
+    "maps_url": "https://maps.google.com/?cid=381263209905039999",
+    "sumber_foto": null,
+    "terakhir_diperbarui": "2026-11-16",
+    "status_data": "draf - perlu verifikasi langsung"
+  },
+  {
+    "slug": "na-vas",
+    "nama": "NAVAS",
+    "area": "Sumbersari",
+    "alamat": "Jl. Veteran No.3, Wetan Ktr., Jemberlor, Kec. Patrang, Kabupaten Jember, Jawa Timur 68118",
+    "koordinat": { "lat": -8.1624634, "lng": 113.7089642 },
+    "jam_buka": "Setiap hari 24Jam",
+    "kisaran_harga": "RpRp",
+    "suasana": ["tenang", "nongkrong", "atap terbuka"],
+    "fasilitas": [],
+    "deskripsi_singkat": "Kafe kecil yang tenang dan nyaman untuk nongkrong.",
+    "daya_tarik": "Pastry dan minuman kopinya disebut menjadi favorit pengunjung.",
+    "menu_andalan": [
+      { "nama": "Strawberry Danish", "harga": null, "catatan": "Disebut pengunjung", "foto": null },
+      { "nama": "Rose Cafe Latte", "harga": null, "catatan": "Disebut pengunjung", "foto": null },
+      { "nama": "888 Ice Coffee", "harga": null, "catatan": "Disebut pengunjung", "foto": null }
+    ],
+    "foto": [
+  {
+    "src": "depan.png",
+    "alt": "Tampilan depan kafe"
+  },
+  {
+    "src": "interior.jpg",
+    "alt": "Suasana interior kafe"
+  },
+  {
+    "src": "menu.jpg",
+    "alt": "Menu yang tersedia di kafe"
+  }
+],
+    "instagram": "https://www.instagram.com/navas.jember/",
+    "kontak": "0895320805152",
+    "maps_url": "https://www.google.com/maps/place/NAVAS/@-8.1624634,113.7089642,17z/data=!4m6!3m5!1s0x2dd695aa626f3d8b:0x43dd1fc7619a77c!8m2!3d-8.162336!4d113.7090608!16s%2Fg%2F11k4_3v04g?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D",
+    "sumber_foto": null,
+    "terakhir_diperbarui": "2026-11-16",
+    "status_data": "draf - perlu verifikasi langsung"
+  },
+  {
+    "slug": "contact-caffe",
+    "nama": "Contact coffe & eatery",
+    "area": "Sumbersari",
+    "alamat": "Jl. Tidar, Kloncing, Karangrejo, Kec. Sumbersari, Kabupaten Jember, Jawa Timur 68121",
+    "koordinat": { "lat": -8.1714199, "lng": 113.7291479 },
+    "jam_buka": "Setiap hari 24Jam",
+    "kisaran_harga": "RpRp",
+    "suasana": ["nugas", "nongkrong"],
+    "fasilitas": ["colokan", "indoor", "outdoor"],
+    "deskripsi_singkat": "Kafe dengan harga terjangkau dan tempat duduk yang banyak, baik indoor maupun outdoor.",
+    "daya_tarik": "Banyak tempat duduk yang dekat colokan, jadi enak untuk nugas. Harganya ramah di kantong.",
+    "menu_andalan": [
+      { "nama": "Hot Cadbury Coffee", "harga": null, "catatan": "Disebut pengunjung", "foto": null },
+      { "nama": "French Fries", "harga": null, "catatan": "Disebut pengunjung", "foto": null }
+    ],
+    "foto": [
+  {
+    "src": "depan.png",
+    "alt": "Tampilan depan kafe"
+  },
+  {
+    "src": "interior.jpg",
+    "alt": "Suasana interior kafe"
+  },
+  {
+    "src": "menu.jpg",
+    "alt": "Menu yang tersedia di kafe"
+  }
+],
+    "instagram": "https://www.instagram.com/contact.coffee/",
+    "kontak": "082233862787",
+    "maps_url": "https://www.google.com/maps/place/Contact+coffe+%26+eatery/@-8.1714199,113.7291479,17z/data=!3m1!4b1!4m6!3m5!1s0x2dd69581f64b1f95:0x3c658f270e3da9b!8m2!3d-8.1714199!4d113.7291479!16s%2Fg%2F11m5k7dlvb?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D",
+    "sumber_foto": null,
+    "terakhir_diperbarui": "2026-11-16",
+    "status_data": "draf - perlu verifikasi langsung"
+  },
+  {
+    "slug": "nugas-jember",
+    "nama": "Nugas Jember (Coffee, Food, and Space)",
+    "area": "Sumbersari",
+    "alamat": "Jl. Mastrip 4 No.61, Krajan Timur, Tegalgede, Kec. Sumbersari, Kab. Jember 68121",
+    "koordinat": { "lat": -8.159489, "lng": 113.7263402 },
+    "jam_buka": "Buka 24 jam",
+    "kisaran_harga": "RpRp",
+    "suasana": ["nugas", "24-jam"],
+    "fasilitas": [],
+    "deskripsi_singkat": "Kafe yang buka 24 jam di dekat kampus UNEJ.",
+    "daya_tarik": "Cocok untuk mahasiswa yang butuh tempat belajar atau mengerjakan tugas kapan saja, termasuk larut malam.",
+    "menu_andalan": [],
+    "foto": [
+  {
+    "src": "depan.png",
+    "alt": "Tampilan depan kafe"
+  },
+  {
+    "src": "interior.jpg",
+    "alt": "Suasana interior kafe"
+  },
+  {
+    "src": "menu.jpg",
+    "alt": "Menu yang tersedia di kafe"
+  }
+],
+    "instagram": "https://instagram.com/nugas.jbr",
+    "kontak": "+62 857-3665-8648",
+    "maps_url": "https://maps.google.com/?cid=17137798789321179520",
+    "sumber_foto": null,
+    "terakhir_diperbarui": "2026-11-16",
+    "status_data": "draf - perlu verifikasi langsung"
+  },
+  {
+    "slug": "kava-cafe",
+    "nama": "KAVA Cafe",
+    "area": "Sumbersari",
+    "alamat": "Jl. Batu Raden, Lingkungan Panji, Tegalgede, Kec. Sumbersari, Kab. Jember 68161",
+    "koordinat": { "lat": -8.1573626, "lng": 113.7199313 },
+    "jam_buka": "Buka 24 jam",
+    "kisaran_harga": "RpRp",
+    "suasana": ["nongkrong", "outdoor", "24-jam", "nugas"],
+    "fasilitas": ["wifi", "musala", "toilet", "parkir", "ac", "outdoor"],
+    "deskripsi_singkat": "Kafe buka 24 jam dengan area indoor ber-AC dan area outdoor yang luas dan rindang.",
+    "daya_tarik": "Fasilitasnya lengkap: musala, toilet, WiFi, dan parkir. Ulasan soal kecocokan untuk nugas beragam: ada yang nyaman bekerja di sini, ada yang mencatat tidak ada meja khusus kerja.",
+    "menu_andalan": [
+      { "nama": "KAVA Latte", "harga": null, "catatan": "Disebut pengunjung", "foto": null }
+    ],
+    "foto": [
+  {
+    "src": "depan.png",
+    "alt": "Tampilan depan kafe"
+  },
+  {
+    "src": "interior.jpg",
+    "alt": "Suasana interior kafe"
+  },
+  {
+    "src": "menu.jpg",
+    "alt": "Menu yang tersedia di kafe"
+  }
+],
+    "instagram": "https://www.instagram.com/cafekava.id/",
+    "kontak": "+62 812-2718-1094",
+    "maps_url": "https://maps.google.com/?cid=3021380951675146734",
+    "sumber_foto": null,
+    "terakhir_diperbarui": "2026-11-16",
+    "status_data": "draf - perlu verifikasi langsung"
+  },
+  {
+    "slug": "kattapa-coffe",
+    "nama": "Kattapa Coffee",
+    "area": "Sumbersari",
+    "alamat": "Lingkungan Krajan Timur, Tegalgede, Kec. Sumbersari, Kabupaten Jember, Jawa Timur 68124",
+    "koordinat": { "lat": -8.1633917, "lng": 113.728703 },
+    "jam_buka": "Setiap hari 10:00-23.00",
+    "kisaran_harga": "RpRp",
+    "suasana": ["nongkrong", "nugas"],
+    "fasilitas": ["wifi"],
+    "deskripsi_singkat": "Kafe yang cocon untuk nugas, ada ruang privat untuk ngobrol.",
+    "daya_tarik": "Pilihan biji kopi dan minuman cukup banyak, ada ruang privat, dan WiFi disebut cukup cepat. Menunya dinilai sederhana, tetapi harganya terjangkau.",
+    "menu_andalan": [],
+    "foto": [
+  {
+    "src": "depan.png",
+    "alt": "Tampilan depan kafe"
+  },
+  {
+    "src": "interior.jpg",
+    "alt": "Suasana interior kafe"
+  },
+  {
+    "src": "menu.jpg",
+    "alt": "Menu yang tersedia di kafe"
+  }
+],
+    "instagram": "https://www.instagram.com/kattapacoffee/",
+    "kontak": null,
+    "maps_url": "https://www.google.com/maps/place/Kattapa+Coffee/@-8.1633917,113.728703,17z/data=!3m1!4b1!4m6!3m5!1s0x2dd695004d44ec7f:0xc4bb1933c4e6da3f!8m2!3d-8.1633917!4d113.728703!16s%2Fg%2F11ldv2q2jg?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D",
+    "sumber_foto": null,
+    "terakhir_diperbarui": "2026-11-16",
+    "status_data": "draf - perlu verifikasi langsung"
+  },
+  {
+    "slug": "fourspace-coffee",
+    "nama": "Fourspace Coffee",
+    "area": "Sumbersari",
+    "alamat": "RPG5+H3P, Tegal Boto Lor, Kec. Sumbersari, Kab. Jember 68121",
+    "koordinat": { "lat": -8.1735409, "lng": 113.7076967 },
+    "jam_buka": "Sen, Rab, Kam, Sab 08:00-00:00; Selasa 24 jam; Jum & Min 08:00-02:00",
+    "kisaran_harga": "RpRp",
+    "suasana": ["nongkrong"],
+    "fasilitas": [],
+    "deskripsi_singkat": "Kedai kopi yang buka sampai malam. Informasi detail masih minim.",
+    "daya_tarik": "Americano-nya disebut enak. Perlu dikunjungi langsung untuk melengkapi deskripsi.",
+    "menu_andalan": [
+      { "nama": "Americano", "harga": null, "catatan": "Disebut pengunjung", "foto": null }
+    ],
+    "foto": [
+  {
+    "src": "depan.png",
+    "alt": "Tampilan depan kafe"
+  },
+  {
+    "src": "interior.jpg",
+    "alt": "Suasana interior kafe"
+  },
+  {
+    "src": "menu.jpg",
+    "alt": "Menu yang tersedia di kafe"
+  }
+],
+    "instagram": "https://www.instagram.com/4space.coffee/",
+    "kontak": "+62 851-9069-6967",
+    "maps_url": "https://maps.google.com/?cid=16485698896606943228",
+    "sumber_foto": null,
+    "terakhir_diperbarui": "2026-11-16",
+    "status_data": "draf - minim informasi, perlu kunjungan langsung"
+  },
+  {
+    "slug": "perasa-coffee-eatery",
+    "nama": "Perasa Coffee & Eatery",
+    "area": "Sumbersari",
+    "alamat": "Jl. Sumatra No.128, Tegal Boto Lor, Kec. Sumbersari, Kab. Jember 68121",
+    "koordinat": { "lat": -8.1697714, "lng": 113.710788 },
+    "jam_buka": "Buka 24 jam",
+    "kisaran_harga": "RpRp",
+    "suasana": ["nongkrong", "24-jam"],
+    "fasilitas": ["indoor", "outdoor", "photobox", "toilet"],
+    "deskripsi_singkat": "Kafe bergaya minimalis modern, buka 24 jam, dengan area indoor dan outdoor.",
+    "daya_tarik": "Dari luar terlihat kecil, tetapi di dalam luas. Ada photobooth dan lantai 2 yang dipakai untuk acara komunitas. Catatan: bisa cukup ramai dan berisik, meja kerja serta colokan terbatas, jadi lebih cocok untuk nongkrong daripada kerja lama.",
+    "menu_andalan": [
+      { "nama": "Chicken Black Pepper", "harga": null, "catatan": "Disebut pengunjung", "foto": null },
+      { "nama": "Choco Fresh Milk", "harga": null, "catatan": "Disebut pengunjung", "foto": null }
+    ],
+    "foto": [
+  {
+    "src": "depan.jpg",
+    "alt": "Tampilan depan kafe"
+  },
+  {
+    "src": "interior.jpg",
+    "alt": "Suasana interior kafe"
+  },
+  {
+    "src": "menu.jpg",
+    "alt": "Menu yang tersedia di kafe"
+  }
+],
+    "instagram": "https://www.instagram.com/perasakopi_/",
+    "kontak": "+62 853-6656-7799",
+    "maps_url": "https://maps.google.com/?cid=10725996829893595570",
+    "sumber_foto": null,
+    "terakhir_diperbarui": "2026-11-16",
+    "status_data": "draf - perlu verifikasi langsung"
+  },
+  {
+    "slug": "lofi-space-garden",
+    "nama": "Lofi Space & Garden",
+    "area": "Patrang",
+    "alamat": "Jl. Cendrawasih No.1, Puring, Slawu, Kec. Patrang, Kab. Jember 68116",
+    "koordinat": { "lat": -8.1558168, "lng": 113.6967319 },
+    "jam_buka": "Setiap hari 08:00-23:00",
+    "kisaran_harga": "RpRp",
+    "suasana": ["tenang", "nongkrong", "outdoor"],
+    "fasilitas": ["ac", "indoor", "outdoor"],
+    "deskripsi_singkat": "Kafe dengan area indoor ber-AC dan taman, musiknya tidak berisik sehingga enak untuk ngobrol.",
+    "daya_tarik": "Cocok untuk yang mencari tempat nongkrong tanpa musik keras. Interior dan suasananya jadi nilai tambah, dan harganya dinilai masuk akal.",
+    "menu_andalan": [
+      { "nama": "Strawberry Mocktail", "harga": null, "catatan": "Disebut pengunjung", "foto": null },
+      { "nama": "Espresso / Cappuccino", "harga": null, "catatan": "Disebut pengunjung", "foto": null }
+    ],
+    "foto": [
+  {
+    "src": "depan.png",
+    "alt": "Tampilan depan kafe"
+  },
+  {
+    "src": "interior.jpg",
+    "alt": "Suasana interior kafe"
+  },
+  {
+    "src": "menu.jpg",
+    "alt": "Menu yang tersedia di kafe"
+  }
+],
+    "instagram": "https://www.instagram.com/lofi.jbr/",
+    "kontak": "+62 812-3418-1746",
+    "maps_url": "https://maps.google.com/?cid=7503991034814821925",
+    "sumber_foto": null,
+    "terakhir_diperbarui": "2026-11-16",
+    "status_data": "draf - perlu verifikasi langsung"
+  },
+  {
+    "slug": "let-it-flow",
+    "nama": "Let It FLOW",
+    "area": "Sumbersari",
+    "alamat": "Jl. Perumahan Gn. Batu Blok H5A, Gumuk Kerang, Kec. Sumbersari, Kab. Jember 68121",
+    "koordinat": { "lat": -8.1781403, "lng": 113.7160379 },
+    "jam_buka": "Setiap hari 08:00-00:00",
+    "kisaran_harga": "RpRp",
+    "suasana": ["nugas", "nongkrong", "tenang"],
+    "fasilitas": ["wifi", "outdoor", "indoor"],
+    "deskripsi_singkat": "Kafe kecil yang nyaman untuk nongkrong, belajar, atau bekerja.",
+    "daya_tarik": "Ada area indoor dengan meja kerja yang cocok untuk laptop dan WiFi yang stabil. Baristanya disebut komunikatif soal menu.",
+    "menu_andalan": [
+      { "nama": "Perfetto (kopi susu signature)", "harga": null, "catatan": "Disebut pengunjung", "foto": null },
+      { "nama": "Cookies Bomb", "harga": null, "catatan": "Disebut pengunjung", "foto": null }
+    ],
+    "foto": [
+  {
+    "src": "depan.png",
+    "alt": "Tampilan depan kafe"
+  },
+  {
+    "src": "interior.jpg",
+    "alt": "Suasana interior kafe"
+  },
+  {
+    "src": "menu.jpg",
+    "alt": "Menu yang tersedia di kafe"
+  }
+],
+    "instagram": "https://www.instagram.com/letitflowmore/",
+    "kontak": "+62 851-1717-4617",
+    "maps_url": "https://maps.google.com/?cid=2534734417332279670",
+    "sumber_foto": null,
+    "terakhir_diperbarui": "2026-11-16",
+    "status_data": "draf - perlu verifikasi langsung"
+  },
+  {
+    "slug": "beli-kopi",
+    "nama": "Belikopi Jl. Gajah Mada ",
+    "area": "Kaliwates",
+    "alamat": "Kelurahan Jember Kidu, Jember Kidul, Kec. Kaliwates, Kabupaten Jember, Jawa Timur",
+    "koordinat": { "lat": -8.1732514, "lng": 113.6910558 },
+    "jam_buka": "Setiap hari 08:30–22:00",
+    "kisaran_harga": "RpRp",
+    "suasana": ["rooftop", "nongkrong", "nugas"],
+    "fasilitas": [],
+    "deskripsi_singkat": "Kafe dengan area rooftop yang menghadap pemandangan kota.",
+    "daya_tarik": "Pemandangan dari rooftop jadi pembeda utama. Disebut cocok sebagai tempat bekerja bersama rekan.",
+    "menu_andalan": [],
+    "foto": [
+  {
+    "src": "depan.jpg",
+    "alt": "Tampilan depan kafe"
+  },
+  {
+    "src": "interior.jpg",
+    "alt": "Suasana interior kafe"
+  },
+  {
+    "src": "menu.jpg",
+    "alt": "Menu yang tersedia di kafe"
+  }
+],
+    "instagram": "https://www.instagram.com/belikopibarukamu/?hl=id",
+    "tautan_lain": "https://linktr.ee/noctiscafe",
+    "kontak": "+62 823-3048-7558",
+    "maps_url": "https://www.google.com/maps/place/Belikopi+Jl.+Gajah+Mada+Kaliwates/@-8.1732461,113.6884809,17z/data=!3m1!4b1!4m6!3m5!1s0x2dd694181b5e8d71:0xcc2fdf26c9cfa146!8m2!3d-8.1732514!4d113.6910558!16s%2Fg%2F11wv3sq0ph?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D",
+    "sumber_foto": null,
+    "terakhir_diperbarui": "2026-11-16",
+    "status_data": "draf - perlu verifikasi langsung"
+  }
+]
